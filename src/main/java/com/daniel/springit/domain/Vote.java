@@ -1,4 +1,4 @@
-package com.daniel.springit.model;
+package com.daniel.springit.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
